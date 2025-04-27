@@ -4,8 +4,9 @@
 
 .header {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.5)),
-    url("../images/header-background.jpg") left center no-repeat;
+    url("../images/header_image.jpg") left center no-repeat;
   background-size: cover;
+  background-position: 70% 30%;
   height: 600px;
 }
 
